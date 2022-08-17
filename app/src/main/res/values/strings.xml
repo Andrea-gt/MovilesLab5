@@ -10,4 +10,10 @@
     <string name="button3">Terminar Jornada</string>
     <string name="directions">HGR5+7H3, Calle del Castillo, Cdad. de Guatemala.</string>
     <string name="schedule">Abierto las 24 horas</string>
+    <string name="initializeAppointment">Iniciar Cita</string>
+    <string name="additionalInfo">Informacion Adicional</string>
+    <string name="restaurantOpenSchedule">Horario de Atencion</string>
+    <string name="phone">Telefono</string>
+    <string name="phoneNumber">2292 5151</string>
+    <string name="callButton">Llamar</string>
 </resources>

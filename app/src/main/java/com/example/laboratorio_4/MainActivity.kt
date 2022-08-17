@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             data = Data(Sname, Sdirection, Sschedule)
 
             val changeToDetailsAct = Intent(this, DetailsActivity::class.java)
-            intent.putExtra("restaurantInformation", data);
+            changeToDetailsAct.putExtra("restaurantInformation", data);
             startActivity(changeToDetailsAct);
         }
     }
