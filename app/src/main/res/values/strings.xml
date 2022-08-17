@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratorio_4</string>
+    <string name="update_text">Actualizacion disponible</string>
+    <string name="download">Descargar</string>
+    <string name="day">Miercoles</string>
+    <string name="month">27 de abril</string>
+    <string name="restaurant_name">Denny\'s</string>
+    <string name="button">Iniciar</string>
+    <string name="button2">Detalles</string>
+    <string name="button3">Terminar Jornada</string>
+    <string name="directions">HGR5+7H3, Calle del Castillo, Cdad. de Guatemala.</string>
+    <string name="schedule">Abierto las 24 horas</string>
+</resources>

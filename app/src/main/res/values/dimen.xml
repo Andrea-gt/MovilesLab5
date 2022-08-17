@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttons">9sp</dimen>
+    <dimen name="text">13sp</dimen>
+    <dimen name="titles">26sp</dimen>
+    <dimen name="Subtitles">20sp</dimen>
+</resources>
